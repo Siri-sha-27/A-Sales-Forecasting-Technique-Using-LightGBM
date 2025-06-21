@@ -41,11 +41,11 @@ n_estimators, max_depth, learning_rate
 subsample, colsample_bytree
 Achieved optimal balance between bias and variance.
 ## Techinque used:
-Gradient Boosting Framework
-Leaf-wise Tree Growth
-Histogram-based Learning
-Key Tuned Parameters
-Cross-Validation
+1.Gradient Boosting Framework
+2.Leaf-wise Tree Growth
+3.Histogram-based Learning
+4.Key Tuned Parameters
+5.Cross-Validation
 
 ## Analysis of the results:
 ![image](https://github.com/user-attachments/assets/bdfecbde-879e-431a-96f5-4d1b97541341)
@@ -57,3 +57,5 @@ Cross-Validation
 
 ## Conclusion:
 Machine learning models significantly enhance forecasting accuracy in e-commerce, outperforming traditional methods.
+
+Note: Please refer to IEEE format paper for more clear understanding and insights of our project.
